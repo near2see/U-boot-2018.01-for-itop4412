@@ -1,0 +1,8 @@
+*.o
+*.su
+*.o.cmd
+*.a
+!lib.a
+*.cmd
+*.tmp
+*.bin

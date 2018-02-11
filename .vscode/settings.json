@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "config_uncmd_spl.h": "c",
+        "itop4412.h": "c"
+    }
+}
